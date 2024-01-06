@@ -1,0 +1,35 @@
+.fav-icon {
+    font-size: 50px;
+}
+
+.news-btn {
+    width: 100%;
+}
+
+.icon-nav {
+    font-size: 20px;
+}
+
+.icon-nav-fav {
+    font-size: 20px;
+    /* background-color: red; */
+    color: red;
+}
+
+.fav-icon-color {
+    color: red;
+}
+
+.card-img{
+    width: 60px !important;
+    height: 60px;
+    border-radius: 50% !important;
+}
+.card-body-main{
+    border: none !important;
+}
+
+.left-sidebar{
+    background-color: #e7eef4;
+    border-radius: 10px;
+}
